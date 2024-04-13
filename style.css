@@ -193,7 +193,7 @@ footer {
 
   .img_slider {
     height: 200px;
-    visibility: hidden;
+    display: none;
   }
 
   .btn {
